@@ -2,7 +2,7 @@
 open source archive
 
 ## uboot
-ftp://ftp.denx.de/pub/u-boot/
+[ftp://ftp.denx.de/pub/u-boot/](ftp://ftp.denx.de/pub/u-boot/)
 
 ## busybox
 https://busybox.net/downloads/
